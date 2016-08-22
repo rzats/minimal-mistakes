@@ -8,7 +8,8 @@ sitemap: false
 permalink: /gsoc/
 ---
 
-<br>
-[**Google Summer Of Code 2016 - Terasology**](/gsoc/2016-final-report)
+{% for post in site.categories.gsoc %}
+    {% include archive-single.html %}
+{% endfor %}
 
-A final report about my contributions to MovingBlocks as a part of Google Summer of Code 2016.
+{% include paginator.html %}
