@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Rostyslav's Blog"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "Rostyslav Zatserkovnyi"
 description              : "Blogging about tech and code every so often!"
 url                      : "https://rzats.github.io"
