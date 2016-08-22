@@ -4,12 +4,13 @@ layout: single
 type: posts
 author_profile: true
 comments: true
-category: GSoC
+category: gsoc
 share: true
 related: true
-excerpt: "The final report for GSoC 2016 with MovingBlocks."
+excerpt: "A final report about my contributions to MovingBlocks as a part of Google Summer of Code 2016."
 sitemap: false
 permalink: /gsoc/2016-final-report
 ---
 
-TODO: finish this!
+<br>
+TODO: final report here!
